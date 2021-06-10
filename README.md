@@ -1,5 +1,5 @@
-Calculator made for The Odin Project
+**Calculator made for The Odin Project**
 
-Made with HTML, CSS & Javascript
+Used HTML, CSS & Javascript
 
-May go back and add keyboard support
+May go back and add keyboard support...
